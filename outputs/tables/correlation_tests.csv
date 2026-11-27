@@ -1,0 +1,6 @@
+variable_x,variable_y,method,n,coefficient,p_value,bootstrap_95ci_lower,bootstrap_95ci_upper
+AI_Usage_Hours_Per_Day,Productivity_Score,Spearman rank correlation,267,0.7993801910969818,1.427443604120389e-60,0.7513875162667488,0.8415826128682807
+Time_Saved_Hours_Per_Week,Productivity_Score,Spearman rank correlation,264,0.7469947008137118,2.3331456636493803e-48,0.6881769577169237,0.7971124092411848
+Productivity_Score,Satisfaction_Score,Spearman rank correlation,267,0.6323984747167466,3.1511629869966728e-31,0.5529445381763405,0.7086962509107576
+Accuracy_Rating,Satisfaction_Score,Spearman rank correlation,267,0.5166575838110978,1.26975753372931e-19,0.4261113475523932,0.6048404893841663
+AI_Usage_Hours_Per_Day,Time_Saved_Hours_Per_Week,Spearman rank correlation,271,0.8237631931701714,2.953608716720676e-68,0.7721907387841382,0.8663884939330816

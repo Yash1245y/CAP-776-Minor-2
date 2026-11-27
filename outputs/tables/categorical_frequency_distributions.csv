@@ -1,0 +1,464 @@
+column,category,count,percentage
+Gender,Male,145,50.34722222222222
+Gender,Female,117,40.625
+Gender,Other,15,5.208333333333334
+Gender,Missing,10,3.4722222222222223
+Gender,Non-binary,1,0.3472222222222222
+Country,India,40,13.88888888888889
+Country,United States,33,11.458333333333332
+Country,Canada,29,10.069444444444445
+Country,Pakistan,28,9.722222222222223
+Country,United Kingdom,25,8.680555555555555
+Country,Philippines,23,7.986111111111111
+Country,Brazil,22,7.638888888888889
+Country,Australia,19,6.597222222222222
+Country,Nigeria,17,5.902777777777778
+Country,Germany,13,4.513888888888888
+Country,Missing,10,3.4722222222222223
+Country,France,9,3.125
+Country,Kenya,6,2.083333333333333
+Country,brazil,4,1.3888888888888888
+Country,india,3,1.0416666666666665
+Country,canada,2,0.6944444444444444
+Country,france,1,0.3472222222222222
+Country,U.K.,1,0.3472222222222222
+Country,United States of America,1,0.3472222222222222
+Country,philippines,1,0.3472222222222222
+Country,australia,1,0.3472222222222222
+User_Type,Student,151,52.43055555555556
+User_Type,Professional,137,47.56944444444444
+Education_Level,Bachelor's,73,25.34722222222222
+Education_Level,Undergraduate,63,21.875
+Education_Level,Master's,50,17.36111111111111
+Education_Level,High School,44,15.277777777777779
+Education_Level,Diploma,25,8.680555555555555
+Education_Level,PhD,16,5.555555555555555
+Education_Level,Missing,12,4.166666666666666
+Education_Level,high school,1,0.3472222222222222
+Education_Level,MA/MSc,1,0.3472222222222222
+Education_Level,master's degree,1,0.3472222222222222
+Education_Level,bachelor's degree,1,0.3472222222222222
+Education_Level,HS,1,0.3472222222222222
+Profession,English Literature Student,24,8.333333333333332
+Profession,Computer Science Student,18,6.25
+Profession,Missing,14,4.861111111111112
+Profession,Biology Student,11,3.8194444444444446
+Profession,Mechanical Engineering Student,10,3.4722222222222223
+Profession,Data Science Student,10,3.4722222222222223
+Profession,Content Writer,8,2.7777777777777777
+Profession,Software Engineering Student,7,2.430555555555556
+Profession,Software Developer,7,2.430555555555556
+Profession,Business Administration Student,6,2.083333333333333
+Profession,Information Technology Student,5,1.7361111111111112
+Profession,Digital Marketing Student,5,1.7361111111111112
+Profession,Administrative Assistant,4,1.3888888888888888
+Profession,Data Analyst,4,1.3888888888888888
+Profession,Customer Support Specialist,4,1.3888888888888888
+Profession,Environmental Science Student,4,1.3888888888888888
+Profession,Junior Software Developer,3,1.0416666666666665
+Profession,Senior Software Engineer,3,1.0416666666666665
+Profession,Business Analyst,3,1.0416666666666665
+Profession,Senior Software Developer,3,1.0416666666666665
+Profession,Creative Writing Student,3,1.0416666666666665
+Profession,Research Analyst,3,1.0416666666666665
+Profession,Digital Media Production Student,3,1.0416666666666665
+Profession,Biomedical Engineering Student,3,1.0416666666666665
+Profession,Content Marketing Manager,2,0.6944444444444444
+Profession,Business Intelligence Analyst,2,0.6944444444444444
+Profession,Digital Media Student,2,0.6944444444444444
+Profession,Research Assistant,2,0.6944444444444444
+Profession,Engineering Student,2,0.6944444444444444
+Profession,Research Technician,2,0.6944444444444444
+Profession,Business Analytics Student,2,0.6944444444444444
+Profession,Senior Data Scientist,2,0.6944444444444444
+Profession,AI Customer Support Specialist,2,0.6944444444444444
+Profession,Machine Learning Student,2,0.6944444444444444
+Profession,Biotechnology Student,2,0.6944444444444444
+Profession,Senior Research Scientist,2,0.6944444444444444
+Profession,Content Strategist,2,0.6944444444444444
+Profession,Customer Support Executive,2,0.6944444444444444
+Profession,Junior Web Developer,2,0.6944444444444444
+Profession,Content Manager,2,0.6944444444444444
+Profession,Customer Support Manager,2,0.6944444444444444
+Profession,Molecular Biology Student,2,0.6944444444444444
+Profession,Senior Content Strategist,2,0.6944444444444444
+Profession,Content Strategy Manager,2,0.6944444444444444
+Profession,Senior Software Engineer / Technical Lead,1,0.3472222222222222
+Profession,Data Analytics Manager,1,0.3472222222222222
+Profession,Engenheiro de Software Sênior / Tech Lead,1,0.3472222222222222
+Profession,Senior Software Engineer / AI Solutions Architect,1,0.3472222222222222
+Profession,Desenvolvedor de Software Sênior,1,0.3472222222222222
+Profession,Digital Media and Communications Student,1,0.3472222222222222
+Profession,Bioinformatics Student,1,0.3472222222222222
+Profession,AI-Powered Customer Support Executive,1,0.3472222222222222
+Profession,Kundenservice-Spezialistin / Customer Service Specialist,1,0.3472222222222222
+Profession,Digital Content Creator,1,0.3472222222222222
+Profession,Pesquisador de Mercado,1,0.3472222222222222
+Profession,Développeur Full Stack,1,0.3472222222222222
+Profession,Desenvolvedora de Software / Software Developer,1,0.3472222222222222
+Profession,Social Media Content Creator,1,0.3472222222222222
+Profession,Customer Service Representative,1,0.3472222222222222
+Profession,Responsable de Contenu Digital,1,0.3472222222222222
+Profession,Marketing Communications Officer,1,0.3472222222222222
+Profession,Artificial Intelligence and Machine Learning Student,1,0.3472222222222222
+Profession,Research Scientist/Senior Research Officer,1,0.3472222222222222
+Profession,Software Development Student,1,0.3472222222222222
+Profession,Machine Learning Research Student,1,0.3472222222222222
+Profession,German Literature Student,1,0.3472222222222222
+Profession,Electronics Engineering Student,1,0.3472222222222222
+Profession,Senior Machine Learning Engineer,1,0.3472222222222222
+Profession,Content Strategist & Technical Writer,1,0.3472222222222222
+Profession,Digital Content Strategist,1,0.3472222222222222
+Profession,Artificial Intelligence Research Student,1,0.3472222222222222
+Profession,Senior Software Developer / Softwareentwicklerin,1,0.3472222222222222
+Profession,Data Entry Operator,1,0.3472222222222222
+Profession,Data Entry Specialist,1,0.3472222222222222
+Profession,Social Media Content Creator / Digital Marketer,1,0.3472222222222222
+Profession,Customer Support Specialist / AI Support Operations Manager,1,0.3472222222222222
+Profession,Customer Experience Manager,1,0.3472222222222222
+Profession,Administrative Executive,1,0.3472222222222222
+Profession,Especialista em Atendimento ao Cliente com IA,1,0.3472222222222222
+Profession,Gerente de Atendimento ao Cliente,1,0.3472222222222222
+Profession,AI Customer Success Manager,1,0.3472222222222222
+Profession,Computer Science PhD Student,1,0.3472222222222222
+Profession,Content Creator/Gestor de Conteúdo Digital,1,0.3472222222222222
+Profession,Kundenbetreuerin mit KI-Unterstützung,1,0.3472222222222222
+Profession,Pesquisador Sênior em Inteligência Artificial e Ciência de Dados,1,0.3472222222222222
+Profession,Technical Writer,1,0.3472222222222222
+Profession,Theoretical Physics Student,1,0.3472222222222222
+Profession,Biomedical Science Student,1,0.3472222222222222
+Profession,Physics Student,1,0.3472222222222222
+Profession,Artificial Intelligence & Digital Media Student,1,0.3472222222222222
+Profession,German Literature and Comparative Studies Student,1,0.3472222222222222
+Profession,Analista de Dados Sênior,1,0.3472222222222222
+Profession,Desenvolvedora de Sistemas Júnior,1,0.3472222222222222
+Profession,History Student,1,0.3472222222222222
+Profession,Mathematics Student,1,0.3472222222222222
+Profession,Softwareentwicklerin (Software Developer),1,0.3472222222222222
+Profession,AI Content Strategist,1,0.3472222222222222
+Profession,Digital Media & Film Production Student,1,0.3472222222222222
+Profession,Psychology Student,1,0.3472222222222222
+Profession,Biotechnology PhD Student,1,0.3472222222222222
+Profession,Développeur Logiciel (Software Developer),1,0.3472222222222222
+Profession,Electronics and Communication Engineering Student,1,0.3472222222222222
+Profession,Digital Content Creator / Social Media Manager,1,0.3472222222222222
+Profession,Développeur Full Stack Junior,1,0.3472222222222222
+Profession,Senior Software Engineer / AI Systems Developer,1,0.3472222222222222
+Profession,Research Scientist / Data Analyst,1,0.3472222222222222
+Profession,Software Developer (Diploma Qualified),1,0.3472222222222222
+Profession,Desenvolvedor de Sistemas Junior,1,0.3472222222222222
+Profession,Data Analyst / Business Intelligence Specialist,1,0.3472222222222222
+Profession,Assistente Administrativo,1,0.3472222222222222
+Profession,Datenanalyst,1,0.3472222222222222
+Profession,Digital Marketing Manager,1,0.3472222222222222
+Profession,Psychology Research Student,1,0.3472222222222222
+Profession,Statistics Student,1,0.3472222222222222
+Profession,Digital Content Writer,1,0.3472222222222222
+Profession,Literature Student,1,0.3472222222222222
+Profession,Customer Service Executive,1,0.3472222222222222
+Profession,Softwareentwickler (Software Developer),1,0.3472222222222222
+Profession,Projektmanagerin (Project Manager),1,0.3472222222222222
+Profession,Software Support Technician,1,0.3472222222222222
+Profession,Desenvolvedora de Software,1,0.3472222222222222
+Profession,Analyste de Données / Data Analyst,1,0.3472222222222222
+Profession,Research Scientist,1,0.3472222222222222
+Profession,Academic Research Professor and Technical Writer,1,0.3472222222222222
+Profession,Analista de Dados,1,0.3472222222222222
+Profession,Multimedia Content Producer,1,0.3472222222222222
+Profession,Desenvolvedor de Sistemas (Systems Developer),1,0.3472222222222222
+AI_Tool,ChatGPT,119,41.31944444444444
+AI_Tool,Google Gemini,39,13.541666666666666
+AI_Tool,Microsoft Copilot,30,10.416666666666668
+AI_Tool,Claude,29,10.069444444444445
+AI_Tool,Perplexity AI,23,7.986111111111111
+AI_Tool,Grammarly,14,4.861111111111112
+AI_Tool,Meta AI,10,3.4722222222222223
+AI_Tool,Missing,10,3.4722222222222223
+AI_Tool,DeepSeek,9,3.125
+AI_Tool,Copilot,2,0.6944444444444444
+AI_Tool,claude,2,0.6944444444444444
+AI_Tool,copilot,1,0.3472222222222222
+AI_Purpose,Coding,65,22.569444444444446
+AI_Purpose,Writing,49,17.01388888888889
+AI_Purpose,Studying,39,13.541666666666666
+AI_Purpose,Research,38,13.194444444444445
+AI_Purpose,Content Creation,28,9.722222222222223
+AI_Purpose,Data Analysis,25,8.680555555555555
+AI_Purpose,Customer Support,20,6.944444444444445
+AI_Purpose,Missing,13,4.513888888888888
+AI_Purpose,Office Work,11,3.8194444444444446
+Tasks_Performed,Missing,17,5.902777777777778
+Tasks_Performed,"Debugging code with AI assistance, generating code snippets for assignments, learning new programming languages and frameworks",2,0.6944444444444444
+Tasks_Performed,"Literature review synthesis using AI-powered databases, data analysis and pattern identification with machine learning models, research hypothesis testing and statistical validation",1,0.3472222222222222
+Tasks_Performed,"Debugging Python code with AI assistance, generating code snippets for machine learning projects, optimizing algorithm performance, documenting technical solutions",1,0.3472222222222222
+Tasks_Performed,"Generating study summaries from lecture notes, solving complex problem sets with AI guidance, creating visual diagrams for anatomy concepts",1,0.3472222222222222
+Tasks_Performed,"Research paper summarization and literature review, experimental data analysis and visualization, thesis writing and citation management, concept clarification through AI tutoring",1,0.3472222222222222
+Tasks_Performed,"Statistical analysis of research datasets, Data visualization and interpretation, Machine learning model training and evaluation, Predictive analytics for academic projects",1,0.3472222222222222
+Tasks_Performed,"Debugging code using AI-assisted tools, Generating boilerplate code with GitHub Copilot, Code review and optimization with AI suggestions, Writing unit tests using AI pair programming",1,0.3472222222222222
+Tasks_Performed,"Cleaning and organizing Excel datasets, Creating data visualizations with Power BI, Generating reports from business metrics using SQL queries",1,0.3472222222222222
+Tasks_Performed,"Email management and scheduling, document preparation using word processors, data entry and spreadsheet management, basic report generation",1,0.3472222222222222
+Tasks_Performed,"Literature review and paper summarization, Lab data analysis and statistical interpretation, Research methodology planning and protocol development",1,0.3472222222222222
+Tasks_Performed,"Literature review summarization, research paper analysis, data interpretation assistance, study methodology research",1,0.3472222222222222
+Tasks_Performed,"Literature review and source analysis, Data interpretation and visualization for research projects, Academic paper summarization and synthesis",1,0.3472222222222222
+Tasks_Performed,"Literature review automation, data analysis and visualization, competitor intelligence gathering, research report generation",1,0.3472222222222222
+Tasks_Performed,"Literature review analysis using AI research tools, thesis data interpretation and statistical analysis, scientific paper summarization and citation management, research proposal optimization",1,0.3472222222222222
+Tasks_Performed,"Essay structuring and outlining, grammar checking and proofreading, research paper organization, creative writing feedback",1,0.3472222222222222
+Tasks_Performed,"Analyzing research papers with AI summaries, Debugging Python code for machine learning projects, Preparing for statistical analysis exams using AI tutoring",1,0.3472222222222222
+Tasks_Performed,"Creating social media graphics and promotional videos, writing blog posts and articles with AI assistance, designing visual content for class projects",1,0.3472222222222222
+Tasks_Performed,"Video editing and effects using AI tools, AI-assisted scriptwriting for YouTube content, AI image generation for social media graphics, audio enhancement and voiceover synthesis",1,0.3472222222222222
+Tasks_Performed,"Using AI for programming problem solving, generating practice exam questions, explaining complex machine learning concepts, summarizing research papers",1,0.3472222222222222
+Tasks_Performed,"Essay writing and structure planning, Grammar checking and proofreading, Creative writing brainstorming, Citation and referencing assistance",1,0.3472222222222222
+Tasks_Performed,"Escrever código Python e JavaScript com assistência de IA, debugar aplicações usando ferramentas de análise de código, otimizar queries de banco de dados com sugestões de IA",1,0.3472222222222222
+Tasks_Performed,"Summarizing research papers for assignments, generating study guides from lecture notes, creating practice questions for exams",1,0.3472222222222222
+Tasks_Performed,"AI-powered blog post generation and optimization, creating marketing copy using AI writing assistants, designing social media content calendars with AI recommendations",1,0.3472222222222222
+Tasks_Performed,"Code debugging with AI assistants, generating boilerplate code snippets, optimizing legacy application code, testing and validating code functionality",1,0.3472222222222222
+Tasks_Performed,"Debugging code with AI-assisted analysis, auto-completing code functions, generating unit test cases with AI tools",1,0.3472222222222222
+Tasks_Performed,"Automated report generation using AI, Data analysis and visualization with machine learning, Document processing and knowledge management, Research paper summarization and literature review automation",1,0.3472222222222222
+Tasks_Performed,"Essay drafting and brainstorming, grammar checking and proofreading, research paper outline generation, creative writing feedback",1,0.3472222222222222
+Tasks_Performed,"Developing machine learning models for code optimization, Automating code generation and refactoring using AI, Debugging complex algorithms with AI-assisted analysis",1,0.3472222222222222
+Tasks_Performed,"Generating code snippets with GitHub Copilot, debugging Python scripts using AI pair programming, optimizing SQL queries with AI assistance",1,0.3472222222222222
+Tasks_Performed,"Essay outlining and structure planning, grammar and style checking, brainstorming essay arguments, citation formatting assistance",1,0.3472222222222222
+Tasks_Performed,"Draft blog posts and marketing copy with AI writing assistants, Generate email campaign content, Edit and refine AI-generated social media posts",1,0.3472222222222222
+Tasks_Performed,"Literature review on emerging technologies, Data analysis for lab experiments, Creating research presentations with AI summarization, Organizing and citing research papers",1,0.3472222222222222
+Tasks_Performed,"Automating data analysis with AI tools, generating reports using AI writing assistants, analyzing market trends with AI analytics platforms",1,0.3472222222222222
+Tasks_Performed,"Using AI for blog drafting, editing article copy with grammar tools, generating content outlines",1,0.3472222222222222
+Tasks_Performed,"Literature review and survey compilation, Statistical data analysis and visualization, Research paper summarization and citation tracking",1,0.3472222222222222
+Tasks_Performed,"Responding to customer inquiries using AI-powered chatbots, analyzing customer feedback with sentiment analysis tools, drafting personalized support responses, resolving billing issues",1,0.3472222222222222
+Tasks_Performed,"Code review and optimization using AI assistants, debugging complex algorithms with AI-powered tools, automated testing and code generation, documentation writing with AI support",1,0.3472222222222222
+Tasks_Performed,"Using AI to summarize lecture notes, generating practice exam questions, researching case studies for assignments",1,0.3472222222222222
+Tasks_Performed,"Drafting blog posts and articles using AI writing assistants, Editing and proofreading client documents with AI tools, Creating marketing copy and social media content",1,0.3472222222222222
+Tasks_Performed,"Essay structuring and outlining, grammar checking and proofreading, research paper organization, creative writing brainstorming",1,0.3472222222222222
+Tasks_Performed,"Análise de grandes volumes de dados com modelos de machine learning, Desenvolvimento de algoritmos para processamento de linguagem natural, Otimização de modelos preditivos para pesquisa acadêmica",1,0.3472222222222222
+Tasks_Performed,"Analyzing customer behavior patterns using Python and Pandas, Creating automated dashboards with Power BI, Mining sales data to identify trends and anomalies",1,0.3472222222222222
+Tasks_Performed,"Drafting technical documentation with AI assistance, editing and refining content for clarity, generating user guides and manuals, collaborating with teams on writing projects",1,0.3472222222222222
+Tasks_Performed,"Literature review automation, research paper summarization, data analysis for experiments, thesis writing assistance",1,0.3472222222222222
+Tasks_Performed,"Literature review automation, data analysis for lab experiments, peer-reviewed article summarization, research paper writing assistance",1,0.3472222222222222
+Tasks_Performed,"Generating practice problems for quantum mechanics, Getting explanations for complex mathematical proofs, Creating study summaries from research papers, Preparing for physics competitions",1,0.3472222222222222
+Tasks_Performed,"Literature review compilation, data collection and organization, competitor analysis, market trend research",1,0.3472222222222222
+Tasks_Performed,"Using AI to generate study notes from textbooks, getting help with math problem solutions, practicing English language comprehension with AI writing feedback",1,0.3472222222222222
+Tasks_Performed,"Using AI for coding homework assistance, practice problem solutions, debugging Python scripts, studying for Data Structures exams",1,0.3472222222222222
+Tasks_Performed,"Code review and debugging using AI assistants, automated test case generation, documentation and code commenting automation, performance optimization recommendations",1,0.3472222222222222
+Tasks_Performed,"Using AI to generate study summaries for exam preparation, getting help with practice problem solutions, organizing research paper notes",1,0.3472222222222222
+Tasks_Performed,"Using AI to generate practice exam questions, getting help understanding complex concepts like cellular respiration, summarizing textbook chapters for study notes",1,0.3472222222222222
+Tasks_Performed,"Processing customer inquiries with AI chatbot automation, analysing customer feedback sentiment using AI tools, training support team on AI-assisted ticketing systems",1,0.3472222222222222
+Tasks_Performed,"Generating practice problems and solutions for thermodynamics assignments, Using AI to explain complex calculus concepts, Debugging Python code for computational mechanics projects",1,0.3472222222222222
+Tasks_Performed,"Brainstorming story concepts and plot outlines, refining essay drafts and academic papers, generating dialogue for fiction projects, editing and proofreading written content",1,0.3472222222222222
+Tasks_Performed,"Code generation and debugging with AI assistants, automated testing and code quality analysis, documentation generation from code, rapid prototyping of features",1,0.3472222222222222
+Tasks_Performed,"Statistical modeling and hypothesis testing with Python/R, Machine learning model development for predictive analytics, Automated data visualization and reporting with Power BI",1,0.3472222222222222
+Tasks_Performed,"Using AI to generate study summaries of complex biochemical pathways, asking ChatGPT to explain lab report findings, generating practice exam questions for molecular biology assessments",1,0.3472222222222222
+Tasks_Performed,"Video editing with AI-assisted color grading, Generating background music and sound design, Creating AI-enhanced visual effects, Writing and scripting video content",1,0.3472222222222222
+Tasks_Performed,"Análise preditiva de tendências de mercado com Machine Learning, processamento e limpeza de grandes volumes de dados com Python/SQL, criação de dashboards interativos em Power BI, relatórios automáticos de KPIs",1,0.3472222222222222
+Tasks_Performed,"Creating social media captions and posts, Generating blog content outlines, Editing and enhancing product photos for e-commerce posts",1,0.3472222222222222
+Tasks_Performed,"Essay drafting and structuring, Literature analysis and research assistance, Creative writing feedback and editing",1,0.3472222222222222
+Tasks_Performed,"Using AI to explain complex biological concepts, generating practice questions for exams, summarizing textbook chapters",1,0.3472222222222222
+Tasks_Performed,"Essay structuring and brainstorming, Grammar and style checking, Research paper organization, Creative writing feedback and revision",1,0.3472222222222222
+Tasks_Performed,"Essay structuring and outlining, grammar and clarity checking, creative writing feedback and refinement, research paper organization",1,0.3472222222222222
+Tasks_Performed,"Using AI for solving complex physics problems, generating practice questions for JEE preparation, translating physics concepts into simpler explanations",1,0.3472222222222222
+Tasks_Performed,"Generating blog articles and marketing copy with AI writing tools, creating social media content calendars, producing video scripts and editing with AI-assisted tools",1,0.3472222222222222
+Tasks_Performed,"Automated code generation using AI assistants, debugging and fixing code with AI-powered tools, writing and optimizing SQL queries with AI support",1,0.3472222222222222
+Tasks_Performed,"Responding to customer inquiries via AI chatbots, drafting personalized support emails using AI writing assistants, resolving common technical issues with AI-guided troubleshooting scripts",1,0.3472222222222222
+Tasks_Performed,"Drafting research papers on literary analysis, brainstorming essay outlines, proofreading and refining academic writing, generating content summaries for thesis work",1,0.3472222222222222
+Tasks_Performed,"Literature review for lab reports, summarizing research papers on molecular genetics, generating study notes from scientific articles",1,0.3472222222222222
+Tasks_Performed,"Literature review synthesis using AI search tools, Data analysis and statistical reporting with AI-assisted tools, Survey data organization and preliminary findings documentation",1,0.3472222222222222
+Tasks_Performed,"AI chatbot management and customer query routing, multilingual customer response handling using AI tools, customer complaint analysis and resolution tracking",1,0.3472222222222222
+Tasks_Performed,"Essay structuring and outline generation, thesis statement refinement, academic paper proofreading and grammar checking, creative writing brainstorming",1,0.3472222222222222
+Tasks_Performed,"Debugging Python code with AI assistants, generating boilerplate code for web projects, learning algorithms through AI-generated explanations",1,0.3472222222222222
+Tasks_Performed,"Resolving customer inquiries using AI chatbot platforms, drafting personalized email responses with AI writing assistants, analyzing customer sentiment with AI tools, managing support tickets with AI-powered ticketing systems",1,0.3472222222222222
+Tasks_Performed,"Generating social media captions with AI, Creating blog post drafts using language models, Editing photos and videos with AI tools, Scheduling posts across multiple platforms",1,0.3472222222222222
+Tasks_Performed,"Writing and debugging Python code, generating documentation for projects, optimizing algorithms",1,0.3472222222222222
+Tasks_Performed,"Análise de tendências usando ferramentas de IA, extração de dados de fontes públicas, geração de relatórios automatizados, síntese de artigos acadêmicos",1,0.3472222222222222
+Tasks_Performed,"Using AI to generate practice exam questions, summarizing research papers, explaining complex concepts like cellular respiration",1,0.3472222222222222
+Tasks_Performed,"Literature review and source compilation, Data analysis and statistical interpretation, Essay research and citation management",1,0.3472222222222222
+Tasks_Performed,"Essay composition and structure planning, grammar checking and proofreading, research paper summarization, creative writing feedback and editing",1,0.3472222222222222
+Tasks_Performed,"Cleaning and preprocessing datasets using Python and SQL, Building predictive models with machine learning libraries, Creating automated dashboards and reports with Power BI or Tableau, Performing statistical analysis and A/B testing",1,0.3472222222222222
+Tasks_Performed,"Essay composition and structure planning, grammar and spelling correction, brainstorming ideas for creative writing assignments",1,0.3472222222222222
+Tasks_Performed,"Uses AI tools to generate initial content drafts, optimize SEO metadata and headlines, streamline editing and proofreading processes, manage multi-channel content calendars",1,0.3472222222222222
+Tasks_Performed,"Debugging Python code with AI-powered IDE plugins, Generating optimization algorithms for data structures, Writing and testing unit tests for complex modules",1,0.3472222222222222
+Tasks_Performed,"Literature review automation with AI tools, data analysis and pattern recognition, research paper synthesis and summarization, hypothesis validation using machine learning models",1,0.3472222222222222
+Tasks_Performed,"Debugging code with AI assistants, Learning Python and JavaScript syntax, Solving LeetCode problems with AI explanations",1,0.3472222222222222
+Tasks_Performed,"Using AI to solve physics problems, generating study summaries for calculus, translating technical documents from English to Portuguese",1,0.3472222222222222
+Tasks_Performed,"Code debugging and optimization using AI assistants, automated test case generation, API integration and documentation, algorithm optimization suggestions",1,0.3472222222222222
+Tasks_Performed,"Literature review automation using AI databases, conducting qualitative data analysis with AI tools, generating research reports and summaries, market research data collection and synthesis",1,0.3472222222222222
+Tasks_Performed,"Drafting blog posts and articles with AI writing assistants, using AI tools to brainstorm content ideas and outline structures, editing and refining generated content for tone and accuracy",1,0.3472222222222222
+Tasks_Performed,"Desenvolvimento de algoritmos com assistência de IA, code review automatizado com ferramentas de IA, arquitetura de sistemas de software, mentoria de equipes em práticas de desenvolvimento com IA",1,0.3472222222222222
+Tasks_Performed,"Building predictive models with Python and scikit-learn, Creating business intelligence dashboards in Tableau, Performing statistical analysis on customer datasets",1,0.3472222222222222
+Tasks_Performed,"Code review and optimization using AI assistants, automated bug detection and debugging with AI tools, AI-assisted documentation generation, infrastructure code maintenance",1,0.3472222222222222
+Tasks_Performed,"Literature review and paper summarization, Data analysis and interpretation, Research proposal drafting, Scientific article finding and organization",1,0.3472222222222222
+Tasks_Performed,"Generating practice problems and solutions for thermodynamics assignments, debugging Python code for finite element analysis projects, summarizing lecture notes on fluid mechanics concepts",1,0.3472222222222222
+Tasks_Performed,"Solving physics problems with AI explanation, generating practice questions for exams, translating complex concepts into simplified notes",1,0.3472222222222222
+Tasks_Performed,"Literature review using AI search tools, data analysis with AI-powered statistical software, market research report generation, academic paper summarization",1,0.3472222222222222
+Tasks_Performed,"Code generation and debugging using AI, automated code review and optimization, rapid prototyping using AI-assisted development frameworks, API design and documentation using AI tools",1,0.3472222222222222
+Tasks_Performed,"Code debugging with AI assistance, automated test case generation, SQL query optimization, documentation writing with AI tools",1,0.3472222222222222
+Tasks_Performed,"Essay outlining and structure planning, Grammar and style checking on assignments, Research paper summarization and citation formatting",1,0.3472222222222222
+Tasks_Performed,"Summarizing academic research papers, generating study guides for exams, brainstorming project ideas, debugging Python code assignments",1,0.3472222222222222
+Tasks_Performed,"Literature review and paper summarization, experiment data analysis and visualization, hypothesis generation for lab research, scientific journal article organization and annotation",1,0.3472222222222222
+Tasks_Performed,"Debugging code with AI-assisted analysis, generating boilerplate code using AI tools, code review and optimization with AI suggestions",1,0.3472222222222222
+Tasks_Performed,"Uso de GitHub Copilot para autocompletar código, refatoração de aplicações com assistência de IA, debugging de erros com ferramentas de análise inteligente",1,0.3472222222222222
+Tasks_Performed,"Data visualization with charts and graphs, Statistical analysis of survey datasets, Data cleaning and preprocessing, Predictive modeling for business intelligence",1,0.3472222222222222
+Tasks_Performed,"Code debugging and optimization with AI tools, automated test case generation, API development and integration, documentation generation",1,0.3472222222222222
+Tasks_Performed,"Resolving customer inquiries using AI chatbots, analyzing customer feedback with sentiment analysis tools, ticket prioritization using AI systems",1,0.3472222222222222
+Tasks_Performed,"Debugging Python code with AI assistance, generating HTML/CSS templates for web projects, explaining algorithmic concepts and data structures",1,0.3472222222222222
+Tasks_Performed,"Debugging code with AI assistance, generating boilerplate code, learning new programming frameworks, optimizing algorithm solutions",1,0.3472222222222222
+Tasks_Performed,"Essay outlining and structure planning, grammar checking and proofreading, creative writing brainstorming, research paper citation formatting",1,0.3472222222222222
+Tasks_Performed,"Debugging code with AI-assisted error detection, writing automated unit tests using AI code generation, refactoring legacy code with AI suggestions",1,0.3472222222222222
+Tasks_Performed,"AI-assisted article writing and SEO optimization, social media content generation, automated copywriting for marketing campaigns, AI-powered image and graphic content creation",1,0.3472222222222222
+Tasks_Performed,"Drafting blog posts and articles using AI writing assistants, proofreading and editing content with grammar tools, generating social media copy and captions",1,0.3472222222222222
+Tasks_Performed,"Email management and scheduling with AI assistance, Document organization and data entry using AI tools, Budget tracking and spreadsheet analysis, Report generation and formatting",1,0.3472222222222222
+Tasks_Performed,"Using AI to generate practice questions for exams, translating English scientific articles to Portuguese, summarizing complex biological concepts, creating study guides",1,0.3472222222222222
+Tasks_Performed,"Writing blog articles with AI writing assistants, generating social media graphics and captions using AI design tools, editing video content and creating thumbnails, managing and curating digital content for websites and social platforms",1,0.3472222222222222
+Tasks_Performed,"Code debugging with AI pair programming tools, automated test generation, code documentation and comments generation",1,0.3472222222222222
+Tasks_Performed,"Debugging code errors, generating code snippets in Python and JavaScript, learning programming concepts through AI explanations",1,0.3472222222222222
+Tasks_Performed,"Essay drafting and structuring, grammar and clarity checking, research paper outline generation, creative writing brainstorming",1,0.3472222222222222
+Tasks_Performed,"Generating video scripts and storyboards, Creating AI-enhanced graphics and visual assets, Writing and editing blog posts and social media content",1,0.3472222222222222
+Tasks_Performed,"Generating solved examples for thermodynamics problems, Creating study summaries from lecture notes, Debugging code for programming assignments",1,0.3472222222222222
+Tasks_Performed,"Drafting research papers and abstracts using AI writing assistants, Editing and refining academic manuscripts for journal submissions, Generating technical documentation and course materials",1,0.3472222222222222
+Tasks_Performed,"Statistical modeling of biological datasets, machine learning prediction model development, exploratory data analysis of genomic sequences, data visualization and interpretation",1,0.3472222222222222
+Tasks_Performed,"Writing lab reports, studying for exams using AI tutors, organizing research notes",1,0.3472222222222222
+Tasks_Performed,"Blog post creation, email copywriting, social media content drafting, document editing and proofreading",1,0.3472222222222222
+Tasks_Performed,"Essay drafting and editing, creative writing brainstorming, research paper organization, grammar and tone refinement",1,0.3472222222222222
+Tasks_Performed,"Using AI to generate article outlines and research summaries, editing and refining AI-generated copy for brand consistency, creating SEO-optimized content briefs with AI assistance",1,0.3472222222222222
+Tasks_Performed,"Literature review analysis using AI tools, Research data synthesis and pattern identification, Experimental hypothesis generation using machine learning models, Scientific paper writing and citation management with AI assistance",1,0.3472222222222222
+Tasks_Performed,"Nettoyage et préparation de données avec Python, création de dashboards interactifs sur Power BI, analyse statistique de tendances marché, génération de rapports automatisés avec SQL",1,0.3472222222222222
+Tasks_Performed,"Essay drafting and structure planning, grammar checking and proofreading, creative writing prompts for assignments, research paper organization and citation formatting",1,0.3472222222222222
+Tasks_Performed,"Literature review and paper summarization, statistical analysis and data interpretation, research methodology design, thesis data analysis and visualization",1,0.3472222222222222
+Tasks_Performed,"Essay outlining and structure planning, grammar and style checking for assignments, creative writing brainstorming and plot development",1,0.3472222222222222
+Tasks_Performed,"Essay drafting and outline generation, academic paper research summarization, creative writing feedback and editing",1,0.3472222222222222
+Tasks_Performed,"Création d'articles de blog avec assistance IA, Génération de contenu pour réseaux sociaux, Optimisation SEO avec outils IA, Édition et révision de textes",1,0.3472222222222222
+Tasks_Performed,"Creating engaging social media posts with AI writing tools, Generating captions and hashtags using AI, Editing and optimizing images with AI-powered design tools, Producing video content summaries and descriptions",1,0.3472222222222222
+Tasks_Performed,"Data analysis using AI-powered analytics tools, automated report generation, process optimization modelling, AI-assisted business intelligence reporting",1,0.3472222222222222
+Tasks_Performed,"Debugging code with AI assistance, Generating boilerplate code using AI, Code review with automated analysis tools",1,0.3472222222222222
+Tasks_Performed,"Building predictive models with Python and scikit-learn, Automating data pipeline creation with AI assistants, Generating business intelligence dashboards and reports, Interpreting complex datasets for stakeholder insights",1,0.3472222222222222
+Tasks_Performed,"Email management and scheduling with AI assistance, automated report generation and data analysis, AI-powered document creation and editing, meeting notes summarization",1,0.3472222222222222
+Tasks_Performed,"Automatisierte E-Mail-Beantwortung mit KI-Chatbots, Ticketklassifizierung und Priorisierung, Live-Chat-Support mit KI-Textvorschlägen, Kundenprobleme analysieren und Lösungen dokumentieren",1,0.3472222222222222
+Tasks_Performed,"AI chatbot ticket routing, customer complaint analysis and resolution, live chat support with AI assistance, response template generation",1,0.3472222222222222
+Tasks_Performed,"AI chatbot management for customer inquiries, complaint resolution using AI ticketing systems, customer feedback analysis with AI sentiment analysis tools",1,0.3472222222222222
+Tasks_Performed,"Using AI for essay writing assistance, generating practice problems for programming exercises, creating study notes and summaries from lecture materials",1,0.3472222222222222
+Tasks_Performed,"AI-assisted essay structuring, thesis literature review synthesis, manuscript editing and proofreading, dialogue generation for fiction writing",1,0.3472222222222222
+Tasks_Performed,"Generating study summaries from lecture notes, debugging Python code for coursework assignments, explaining complex statistical concepts, creating practice problems for exam preparation",1,0.3472222222222222
+Tasks_Performed,"AI-assisted article writing, generating blog post outlines, proofreading and editing content using AI tools, creating marketing copy",1,0.3472222222222222
+Tasks_Performed,"Essay drafting and structure planning, Grammar checking and proofreading, Research paper summarization, Creative writing feedback and refinement",1,0.3472222222222222
+Tasks_Performed,"Essay drafting and structuring, Grammar and style checking for academic papers, Creative writing brainstorming and editing",1,0.3472222222222222
+Tasks_Performed,"Code generation and bug fixing with AI assistants, refactoring legacy code, AI-powered code review and optimization",1,0.3472222222222222
+Tasks_Performed,"Code generation and debugging with AI assistants, automated testing and deployment pipeline optimization, machine learning model implementation and optimization",1,0.3472222222222222
+Tasks_Performed,"Data entry and document formatting with AI tools, scheduling meetings and managing calendar using AI assistants, generating business reports with AI summarization software, proofreading emails and correspondence using grammar AI",1,0.3472222222222222
+Tasks_Performed,"Using AI to generate study summaries, practice exam questions, and lab report writing assistance",1,0.3472222222222222
+Tasks_Performed,"Debugging code with AI assistance, generating boilerplate code for projects, learning new programming concepts through AI explanations",1,0.3472222222222222
+Tasks_Performed,"Code debugging and optimization, API development and integration, machine learning model training and implementation",1,0.3472222222222222
+Tasks_Performed,"Writing and debugging Python code using AI assistants, automating repetitive coding tasks with AI tools, code review and optimization with AI-powered suggestions",1,0.3472222222222222
+Tasks_Performed,"Literature review automation with AI summarization, designing research methodology frameworks, analyzing genomic datasets using machine learning models, peer review preparation assistance",1,0.3472222222222222
+Tasks_Performed,"Debugging Python code with AI code analysis, Writing SQL queries for database projects, Generating HTML/CSS templates for web assignments",1,0.3472222222222222
+Tasks_Performed,"Usar GitHub Copilot para completar código, gerar testes unitários com IA, otimizar algoritmos com sugestões de IA, revisar e debugar código com assistentes de IA",1,0.3472222222222222
+Tasks_Performed,"Cleaning and processing customer transaction data, generating sales trend reports using Python, creating data visualizations in Power BI dashboards",1,0.3472222222222222
+Tasks_Performed,"Statistical analysis of datasets, data visualization using Python libraries, predictive modeling with machine learning algorithms, database query optimization",1,0.3472222222222222
+Tasks_Performed,"Creating blog posts and web copy with AI writing assistants, editing and refining client proposals, generating social media content calendars and posts",1,0.3472222222222222
+Tasks_Performed,"Creating social media graphics with AI design tools, Writing blog posts and articles with AI writing assistants, Generating video scripts and editing content with AI video tools",1,0.3472222222222222
+Tasks_Performed,"Using AI to solve physics and calculus problems, generating practice exam questions, translating technical documentation from English to Portuguese",1,0.3472222222222222
+Tasks_Performed,"Drafting customer responses using AI writing assistants, analyzing customer feedback with sentiment analysis tools, resolving FAQs using AI knowledge base systems, escalating complex issues to senior staff",1,0.3472222222222222
+Tasks_Performed,"AI-assisted content writing for social media and marketing campaigns, proofreading and editing copy with AI grammar tools, generating email newsletters and promotional materials",1,0.3472222222222222
+Tasks_Performed,"AI-assisted blog writing and SEO optimization, video scriptwriting and thumbnail design generation, social media content creation and caption generation",1,0.3472222222222222
+Tasks_Performed,"Writing blog posts and articles using AI writing tools, designing social media content with AI image generators, creating video scripts and editing content using AI-assisted tools",1,0.3472222222222222
+Tasks_Performed,"Analyzing complex physics problems, generating study notes from lecture content, debugging code for coursework projects, creating visual explanations of thermodynamic concepts",1,0.3472222222222222
+Tasks_Performed,"Writing blog posts and articles using AI writing assistants, generating social media content calendars with AI tools, editing and repurposing video content with AI-powered software",1,0.3472222222222222
+Tasks_Performed,"Debugging code with AI assistance, generating boilerplate code templates, learning new programming frameworks, optimizing algorithms",1,0.3472222222222222
+Tasks_Performed,"Literature review and paper summarization, Data analysis for research datasets, Academic paper organization and citation management",1,0.3472222222222222
+Tasks_Performed,"Writing blog posts and articles using AI writing assistants, Creating social media content with AI tools, Generating product descriptions for e-commerce platforms",1,0.3472222222222222
+Tasks_Performed,"Automated data cleaning and processing with Python scripts, building predictive models using machine learning algorithms, generating interactive dashboards and visualizations in Power BI",1,0.3472222222222222
+Tasks_Performed,"Essay structuring and outlining, Research paper writing assistance, Academic content proofreading and editing, Creative writing feedback generation",1,0.3472222222222222
+Tasks_Performed,"Using AI code completion tools for writing Python functions, debugging code with AI-assisted analysis, generating unit test cases with AI tools",1,0.3472222222222222
+Tasks_Performed,"Literature review and paper summarization, Data analysis for lab experiments, Generating research hypotheses, Technical documentation and report writing",1,0.3472222222222222
+Tasks_Performed,"Literature review and synthesis using AI-powered databases, Data analysis and pattern recognition, Research paper writing and academic content generation",1,0.3472222222222222
+Tasks_Performed,"Email copywriting, Social media post creation, Blog article drafting, Product description writing",1,0.3472222222222222
+Tasks_Performed,"Creating YouTube video scripts, Designing social media graphics with AI image generators, Writing blog content for tech topics",1,0.3472222222222222
+Tasks_Performed,"Creating Instagram/TikTok captions with AI writing tools, Generating YouTube thumbnails and video descriptions using AI design assistants, Editing photos and videos with AI-powered software",1,0.3472222222222222
+Tasks_Performed,"Automated code review with AI-powered linters, Generated boilerplate code and API endpoints using GitHub Copilot, Debugged complex algorithms with AI assistance, Optimized database queries using AI suggestions",1,0.3472222222222222
+Tasks_Performed,"Statistical analysis on datasets, data visualization with Python libraries, predictive modeling for coursework, business intelligence report generation",1,0.3472222222222222
+Tasks_Performed,"Debugging code with AI assistance, generating code snippets for assignments, learning programming concepts through AI explanations",1,0.3472222222222222
+Tasks_Performed,"Summarizing course lecture notes, generating practice questions for exams, translating academic articles into simpler terms, proofreading and organizing assignment drafts",1,0.3472222222222222
+Tasks_Performed,"AI-assisted blog post creation, email copywriting with AI tools, social media content generation, SEO-optimized article drafting",1,0.3472222222222222
+Tasks_Performed,"Handling customer inquiries via AI chatbots, resolving complaints using AI-powered ticketing systems, processing refunds and returns with AI assistance",1,0.3472222222222222
+Tasks_Performed,"Literature review on medical devices, analyzing research papers using AI summaries, conducting computational analysis of biological data, organizing and citing academic sources",1,0.3472222222222222
+Tasks_Performed,"Literature review summarization, data analysis for lab reports, generating research outlines, fact-checking sources for school projects",1,0.3472222222222222
+Tasks_Performed,"Using AI chatbots to explain complex business concepts, generating study notes from textbooks, practicing for economics exams with AI-generated practice questions",1,0.3472222222222222
+Tasks_Performed,"Debugging code with AI assistance, generating boilerplate code for projects, learning new programming languages and frameworks",1,0.3472222222222222
+Tasks_Performed,"Essay drafting and structuring, grammar and syntax correction, research paper organization, creative writing brainstorming",1,0.3472222222222222
+Tasks_Performed,"Explaining complex physics concepts, solving differential equations, generating study guides for thermodynamics and dynamics modules, debugging Python code for engineering simulations",1,0.3472222222222222
+Tasks_Performed,"Analyzing survey datasets using Python, Creating data visualizations with matplotlib and seaborn, Performing statistical hypothesis testing on project data",1,0.3472222222222222
+Tasks_Performed,"Usar GitHub Copilot para autocompletar código, debugar aplicações com assistência de IA, otimizar algoritmos com sugestões de IA, revisar e refatorar código existente",1,0.3472222222222222
+Tasks_Performed,"Writing JavaScript code with AI code completion, debugging Python scripts using AI-powered error analysis, generating HTML/CSS templates with AI assistance",1,0.3472222222222222
+Tasks_Performed,"Drafting blog articles and web copy with AI assistance, proofreading and editing content generated by language models, optimizing written materials for SEO using AI tools",1,0.3472222222222222
+Tasks_Performed,"Creating social media content using AI writing tools, Generating blog post outlines and scripts for YouTube videos, Designing graphics and promotional materials with AI image generators",1,0.3472222222222222
+Tasks_Performed,"Debugging Python code with AI assistance, Generating boilerplate code for data preprocessing, Optimizing neural network architectures",1,0.3472222222222222
+Tasks_Performed,"Literature review analysis, Research paper summarization, Data interpretation assistance, Survey analysis",1,0.3472222222222222
+Tasks_Performed,"Debugging code with AI assistance, Learning Python syntax, Building small projects with AI pair programming",1,0.3472222222222222
+Tasks_Performed,"Debugging code with AI assistance, generating boilerplate code for projects, learning new programming concepts through AI explanations, optimizing algorithms",1,0.3472222222222222
+Tasks_Performed,"AI chatbot response review and optimization, automated ticket categorization and routing, customer sentiment analysis using AI tools, knowledge base article generation",1,0.3472222222222222
+Tasks_Performed,"Essay structuring and outlining, narrative development and storytelling, grammar checking and style refinement, research paper organization",1,0.3472222222222222
+Tasks_Performed,"Implementar chatbots para respostas automáticas, supervisionar equipe de suporte via AI analytics, analisar satisfação de clientes com ferramentas de IA",1,0.3472222222222222
+Tasks_Performed,"AI-powered chatbot configuration and training, customer sentiment analysis using NLP models, automated ticket classification and routing, customer feedback analysis and reporting",1,0.3472222222222222
+Tasks_Performed,"Explaining complex physics concepts, Generating practice problems with solutions, Debugging MATLAB code for simulations",1,0.3472222222222222
+Tasks_Performed,"Creating website copy and blog articles with AI writing assistants, generating social media posts and captions, editing and optimizing content for SEO",1,0.3472222222222222
+Tasks_Performed,"Building predictive models with machine learning algorithms, Creating automated dashboards for business intelligence, Cleaning and transforming large datasets for analysis",1,0.3472222222222222
+Tasks_Performed,"Essay composition and refinement, Research paper writing and citation organization, Creative story development and editing",1,0.3472222222222222
+Tasks_Performed,"Respond to customer inquiries using AI chatbots, analyze sentiment in support tickets with NLP tools, draft personalized customer responses, resolve issues through AI-assisted knowledge bases",1,0.3472222222222222
+Tasks_Performed,"Blog post creation using AI writing assistants, social media caption generation, email newsletter drafting, proofreading and editing with grammar tools",1,0.3472222222222222
+Tasks_Performed,"AI-assisted blog writing and SEO optimization, social media caption generation, video script composition, graphic design concept ideation",1,0.3472222222222222
+Tasks_Performed,"Utilizar GitHub Copilot para autocompletar código, usar ChatGPT para debugar erros em Python, aplicar IA para gerar testes automatizados",1,0.3472222222222222
+Tasks_Performed,"Drafting advertising copy with AI assistance, Proofreading and editing marketing materials, Generating content ideas for campaigns using AI tools",1,0.3472222222222222
+Tasks_Performed,"Manages AI-powered chatbot responses for customer inquiries, Analyzes customer sentiment using NLP tools, Optimizes support ticket routing with machine learning algorithms, Trains and monitors AI systems for quality assurance",1,0.3472222222222222
+Tasks_Performed,"Debugging code with AI assistance, Learning new programming frameworks, Writing and testing algorithms, Code optimization and refactoring",1,0.3472222222222222
+Tasks_Performed,"Debugging Python code with AI pair programming, generating neural network architectures, optimizing algorithm efficiency",1,0.3472222222222222
+Tasks_Performed,"AI-powered social media content generation, blog post writing and SEO optimization, graphic design ideation with AI tools, video script creation and editing",1,0.3472222222222222
+Tasks_Performed,"Data cleaning and preprocessing, Statistical analysis and visualization, Building predictive models with machine learning algorithms",1,0.3472222222222222
+Tasks_Performed,"Essay drafting and editing, creative story development, grammar checking and proofreading",1,0.3472222222222222
+Tasks_Performed,"Using AI code generation tools to write HTML/CSS templates, debugging PHP code with AI assistance, automating SQL query optimization for database functions",1,0.3472222222222222
+Tasks_Performed,"Debugging Python code, generating SQL queries, writing HTML/CSS for web projects, optimizing algorithm efficiency",1,0.3472222222222222
+Tasks_Performed,"Generating social media posts with AI writing tools, creating blog content and SEO optimization, producing video scripts and editing with AI assistance, designing graphics and visual content using AI image generators",1,0.3472222222222222
+Tasks_Performed,"Writing social media captions and posts, Generating video scripts and outlines, Creating blog post ideas and content drafts",1,0.3472222222222222
+Tasks_Performed,"Generating practice problem sets, debugging Python code, summarizing research papers, creating study guides for exams",1,0.3472222222222222
+Tasks_Performed,"Literature review using AI-powered academic databases, predictive data analysis with machine learning algorithms, research paper summarization and content extraction, hypothesis validation through automated statistical modeling",1,0.3472222222222222
+Tasks_Performed,"Analyzing customer sales trends with Python, generating automated reports using Power BI, cleaning and organizing spreadsheet data",1,0.3472222222222222
+Tasks_Performed,"Writing and debugging Python code using GitHub Copilot, generating SQL queries with AI assistants, code optimization and refactoring suggestions",1,0.3472222222222222
+Tasks_Performed,"Debugging code with AI assistance, Generating boilerplate code and snippets, Optimizing algorithms and performance",1,0.3472222222222222
+Tasks_Performed,"Essay drafting and brainstorming, grammar checking and proofreading, creative writing prompt generation",1,0.3472222222222222
+Tasks_Performed,"Using ChatGPT to explain statistical concepts, generating practice problems with Python code examples, summarizing research papers for assignments",1,0.3472222222222222
+Tasks_Performed,"Literature review automation, research paper summarization, data analysis and visualization, academic source discovery and organization",1,0.3472222222222222
+Tasks_Performed,"Debugging code with AI assistance, generating code snippets for assignments, learning programming concepts through AI-powered tutorials",1,0.3472222222222222
+Tasks_Performed,"Literature review organization, Academic paper summarization, Statistical data analysis, Research source evaluation",1,0.3472222222222222
+Tasks_Performed,"AI-assisted article writing and research, document translation and localization, automated report generation, editing and proofreading with AI tools",1,0.3472222222222222
+Tasks_Performed,"Email management and scheduling with AI tools, Document formatting and data entry using automation software, Report generation and analysis with spreadsheet AI features",1,0.3472222222222222
+Tasks_Performed,"Building predictive models using machine learning, Processing large datasets with Python/SQL, Creating automated dashboards and reports, Performing statistical analysis on business metrics",1,0.3472222222222222
+Tasks_Performed,"Code generation and debugging with AI assistants, algorithm optimization using neural networks, automated testing and code review with AI tools",1,0.3472222222222222
+Tasks_Performed,"Generating blog content using AI writing assistants, creating social media copy with AI tools, editing and refining multimedia content with AI enhancement software, developing content calendars and briefs",1,0.3472222222222222
+Tasks_Performed,"Literature review and scientific paper analysis, data analysis and statistical interpretation, hypothesis generation and research methodology planning",1,0.3472222222222222
+Tasks_Performed,"Code review and optimization using AI assistants, automated testing and debugging with AI tools, API development and integration, documentation generation",1,0.3472222222222222
+Tasks_Performed,"Generating study summaries from lecture notes, debugging Python code for machine learning assignments, explaining complex statistical concepts and algorithms",1,0.3472222222222222
+Tasks_Performed,"Literature review and paper summarization, debugging and optimizing machine learning code, generating research hypotheses and experiment design, analyzing complex datasets and statistical modeling",1,0.3472222222222222
+Tasks_Performed,"Data cleaning and validation using Python scripts, Excel spreadsheet automation with AI tools, generating automated reports from raw datasets",1,0.3472222222222222
+Tasks_Performed,"Organizing customer datasets with Excel and Python scripts, creating automated reports using AI-powered analytics tools, cleaning and validating data quality for business intelligence dashboards",1,0.3472222222222222
+Tasks_Performed,"Using AI chatbots to handle routine customer inquiries, training support staff on AI tools, monitoring AI-assisted ticket resolution quality",1,0.3472222222222222
+Tasks_Performed,"Code generation and optimization using AI assistants, automated testing and bug detection with AI tools, documentation generation from code comments, refactoring legacy code with AI suggestions",1,0.3472222222222222
+Tasks_Performed,"Running SQL queries and Python scripts to extract and clean datasets, Creating interactive dashboards and visualizations in Tableau, Performing statistical analysis and generating insights reports",1,0.3472222222222222
+Tasks_Performed,"Essay composition and structure planning, grammar and style checking, research paper organization, content brainstorming for creative writing assignments",1,0.3472222222222222
+Tasks_Performed,"Literature review automation, research paper summarization, data analysis and visualization, hypothesis generation",1,0.3472222222222222
+Tasks_Performed,"AI-assisted blog writing and SEO optimization, social media caption generation, video script creation with AI tools, content calendar planning using AI analytics",1,0.3472222222222222
+Tasks_Performed,"Email management and scheduling using AI, document formatting and report generation, data entry and spreadsheet organization, customer inquiry responses",1,0.3472222222222222
+Tasks_Performed,"Email automation and drafting with AI writing tools, Data entry and spreadsheet management using AI-powered tools, Document formatting and report generation, Meeting notes transcription and summarization",1,0.3472222222222222
+Tasks_Performed,"Implementing AI chatbots for customer inquiries, analyzing customer feedback using NLP tools, managing support ticket automation with AI systems",1,0.3472222222222222
+Tasks_Performed,"Literature review and document summarization, Historical timeline creation and fact verification, Research paper outline generation",1,0.3472222222222222
+Tasks_Performed,"Automatizar respostas de chatbot para FAQ, analisar sentimento de clientes em redes sociais, gerenciar tickets de suporte com priorização inteligente, personalizar recomendações de produtos",1,0.3472222222222222
+Tasks_Performed,"Building predictive machine learning models, statistical analysis of large datasets, automating data pipeline workflows, generating insights dashboards for stakeholders",1,0.3472222222222222
+Tasks_Performed,"Solving differential equations and linear algebra problems, generating practice exam questions and solutions, explaining complex mathematical concepts through AI-assisted tutorials",1,0.3472222222222222
+Tasks_Performed,"Using AI to solve complex circuit problems, generating practice exam questions with solutions, summarizing technical textbooks and research papers",1,0.3472222222222222
+Tasks_Performed,"Literature review and paper summarization, Research paper analysis and concept extraction, Experimental data interpretation and analysis",1,0.3472222222222222
+Tasks_Performed,"Using AI to explain complex concepts like cellular respiration and photosynthesis, generating practice questions for AP Biology exams, summarizing dense textbook chapters into study notes",1,0.3472222222222222
+Tasks_Performed,"Code review and debugging using AI assistants, automated testing script generation, documentation and comment generation, API integration optimization",1,0.3472222222222222
+Tasks_Performed,"Debugging Python code with AI assistance, generating boilerplate code templates, learning JavaScript syntax through AI explanations",1,0.3472222222222222
+Tasks_Performed,"Literature review and paper summarization, Training neural networks for experimental validation, Data analysis and statistical modeling",1,0.3472222222222222
+Tasks_Performed,"Literature review and paper summarization, Data analysis for research projects, Hypothesis generation for experiments, Academic writing and citation organization",1,0.3472222222222222
+Tasks_Performed,"Essay structure planning, grammar and spelling correction, essay topic research, writing feedback and revision suggestions",1,0.3472222222222222
+Tasks_Performed,"Writing Python scripts with AI code completion, debugging code errors using ChatGPT, generating SQL queries for database management, refactoring JavaScript functions with AI assistance",1,0.3472222222222222
+Tasks_Performed,"Drafting marketing copy with AI assistance, generating blog outlines and article summaries, editing and refining written content using AI tools, creating email campaign content",1,0.3472222222222222
+Would_Recommend,Yes,170,59.02777777777778
+Would_Recommend,No,71,24.65277777777778
+Would_Recommend,Maybe,42,14.583333333333334
+Would_Recommend,Missing,5,1.7361111111111112

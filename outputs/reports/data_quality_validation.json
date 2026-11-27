@@ -1,0 +1,20 @@
+{
+  "input_rows": 300,
+  "rows_after_exact_deduplication": 288,
+  "exact_duplicate_rows_removed": 12,
+  "columns": 19,
+  "missing_cells_before": 204,
+  "missing_cells_after": 197,
+  "invalid_values_set_missing_by_column": {
+    "Age": 0,
+    "AI_Usage_Hours_Per_Day": 0,
+    "Work_or_Study_Hours_Per_Day": 0,
+    "Time_Saved_Hours_Per_Week": 0,
+    "Monthly_AI_Cost": 0,
+    "Monthly_Income": 0,
+    "Productivity_Score": 0,
+    "Accuracy_Rating": 0,
+    "Satisfaction_Score": 0
+  },
+  "duplicate_user_ids_after_exact_deduplication": 0
+}
